@@ -289,7 +289,7 @@ footer p{
 font-weight: 700;
 font-size: 14px;
 }
-.f-icon{
+.f-icon.fab{
     height: 32px;
     width: 32px;
     border-radius: 50px;

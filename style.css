@@ -296,6 +296,7 @@ font-size: 14px;
     background-color: rgb(61, 59, 59);
     color: white;
     display: flex;
+    padding-top: 2px;
     align-items: center;
     justify-content: center;
 
